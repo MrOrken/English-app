@@ -1,0 +1,6 @@
+{
+  "name": "Memory Boost - Vocabulary Memorization",
+  "description": "Master English vocabulary through five multi-sensory techniques: See, Say, Move, Connect, and Recall. Built for both students and teachers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
